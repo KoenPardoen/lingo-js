@@ -1,0 +1,38 @@
+input{
+    border: 1px solid black;
+    font-size:40px;
+    width: 80px;
+    height: 80px;
+    align: center;
+}
+.fiveRows {
+width: 50%;
+margin: auto;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+#check {
+  width: 80px;
+  height: 80px;
+  background-color: yellow;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.button {
+  display: flex;
+  position: absolute;
+  left: 815px;
+  top: 78px;
+}
+
+input {
+  background-color: #1673b9;
+}
